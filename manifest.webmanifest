@@ -1,0 +1,27 @@
+{
+  "name": "Plantão 360 — Escala e trocas",
+  "short_name": "Plantão 360",
+  "description": "Calendário de plantões 12×60, trocas pontuais e feriados brasileiros.",
+  "lang": "pt-BR",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f8fd",
+  "theme_color": "#101e41",
+  "icons": [
+    {
+      "src": "icone-plantao.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
