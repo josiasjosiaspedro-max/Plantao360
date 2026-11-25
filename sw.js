@@ -1,4 +1,4 @@
-const CACHE = 'plantao360-v3.1-20261125';
+const CACHE = 'plantao360-v3.3-20261125';
 const HOME = new URL('./index.html', self.registration.scope).href;
 self.addEventListener('install', event => {
   event.waitUntil((async()=>{
